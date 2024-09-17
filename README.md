@@ -1,0 +1,1 @@
+This is a project developed for Northeast health Hackathon conducted at e-health Africa Kano in order to assist for better healthcare service delivery across our public and private hospitals with immediate report cases using a power BI dashboard
